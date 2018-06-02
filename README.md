@@ -1,3 +1,4 @@
+# Description
 This App is a Facebook Scraper used to collect public information on Facebook. It is designed for my research use.
 
 # Privacy Policy
