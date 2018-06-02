@@ -1,6 +1,9 @@
 # Description
 This App is a Facebook Scraper used to collect public information on Facebook. It is designed for my research use.
 
+# Author
+Justin Chun-ting Ho
+
 # Privacy Policy
 No personal information of the user will be collected for using this App. All users will remain annoymous.
 
